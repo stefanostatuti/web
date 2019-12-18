@@ -29,7 +29,7 @@
     "DNS Options": "DNS Seçenekleri",
     "Rapid Commit": "Hızlı Taahhüt",
     "Prefix length (CIDR)": "Ön ek uzunluğu (CIDR)",
-    "DNS cache size": "",
-    "DNS cache evictions": "",
-    "DNS cache insertions": ""
+    "DNS cache size": "DNS bellek boyutu",
+    "DNS cache evictions": "DNS bellek temizlemeleri",
+    "DNS cache insertions": "DNS bellek kayıtları"
 }
