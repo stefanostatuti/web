@@ -30,6 +30,6 @@
     "Rapid Commit": "Asignación rápida",
     "Prefix length (CIDR)": "Longitud del prefijo (CIDR)",
     "DNS cache size": "Tamaño del caché DNS",
-    "DNS cache evictions": "",
+    "DNS cache evictions": "Expulsiones de caché DNS",
     "DNS cache insertions": "Inserciones de caché DNS"
 }
