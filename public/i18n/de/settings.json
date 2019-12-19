@@ -29,7 +29,7 @@
     "DNS Options": "DNS Optionen",
     "Rapid Commit": "Rapid Commit",
     "Prefix length (CIDR)": "",
-    "DNS cache size": "",
+    "DNS cache size": "DNS cache größe",
     "DNS cache evictions": "",
     "DNS cache insertions": ""
 }
