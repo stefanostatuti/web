@@ -43,7 +43,7 @@ export const PiholeNavItem = ({
     <NavLink
       to={item.url}
       onClick={mobileSidebarHide}
-      className="nav-link"
+      className="c-sidebar-nav-link"
       activeClassName="active"
     >
       <i className={"nav-icon " + item.icon} />
@@ -138,10 +138,10 @@ export interface SidebarProps extends WithTranslation {
  * @constructor
  */
 const Sidebar = ({ items, t, location }: SidebarProps): ReactElement => (
-  <div className="sidebar">
-    <nav className="sidebar-nav">
+  <div className="c-sidebar">
+    <nav className="c-sidebar-nav">
       <Nav>
-        <li className="nav-title" style={{ textTransform: "none" }}>
+        <li className="c-sidebar-nav-title" style={{ textTransform: "none" }}>
           <img
             src={logo}
             className="img-responsive float-left"

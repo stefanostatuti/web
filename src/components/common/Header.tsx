@@ -32,35 +32,30 @@ export const mobileSidebarHide = () => {
   document.body.classList.remove("sidebar-show");
 };
 
-//const asideToggle = e => {
-//  e.preventDefault();
-//  document.body.classList.toggle('aside-menu-hidden');
-//};
-
 export default () => (
-  <header className="app-header navbar">
+  <header className="c-header navbar">
     <button
-      className="navbar-toggler d-lg-none text-white ml-3"
+      className="c-header-toggler d-lg-none text-white ml-3"
       onClick={mobileSidebarToggle}
       type="button"
     >
       &#9776;
     </button>
-    <Link to="/dashboard" className="navbar-brand text-center">
+    <Link to="/dashboard" className="c-header-brand text-center">
       <span className="text-white" style={{ lineHeight: "40px" }}>
-        <span className="navbar-brand-full">
+        <span className="c-header-brand-full">
           Pi-
           <b>hole</b>
         </span>
-        <span className="navbar-brand-minimized">
+        <span className="c-header-brand-minimized">
           P<b>h</b>
         </span>
       </span>
     </Link>
-    <ul className="nav navbar-nav d-md-down-none mr-auto">
-      <li className="nav-item">
+    <ul className="c-header-nav navbar-nav d-md-down-none mr-auto">
+      <li className="c-header-nav-item">
         <button
-          className="nav-link navbar-toggler text-white sidebar-toggler"
+          className="c-header-nav-link c-header-toggler text-white sidebar-toggler"
           type="button"
           onClick={sidebarMinimize}
         >
