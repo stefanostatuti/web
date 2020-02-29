@@ -12,8 +12,8 @@
     "Exact blacklist": "",
     "Regex whitelist": "",
     "Regex blacklist": "",
-    "Settings": "",
-    "Networking": "",
-    "Versions": "",
-    "Preferences": ""
+    "Settings": "Ajustes",
+    "Networking": "Rede",
+    "Versions": "Versão",
+    "Preferences": "Preferências"
 }
