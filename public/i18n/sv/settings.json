@@ -29,7 +29,7 @@
     "DNS Options": "DNS-alternativ",
     "Rapid Commit": "",
     "Prefix length (CIDR)": "Prefixlängd (CIDR)",
-    "DNS cache size": "",
+    "DNS cache size": "DNS-cachestorlek",
     "DNS cache evictions": "",
-    "DNS cache insertions": ""
+    "DNS cache insertions": "DNS cacheinsättningar"
 }
