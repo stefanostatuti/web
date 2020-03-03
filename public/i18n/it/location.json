@@ -4,12 +4,16 @@
     "Blacklist": "Lista nera",
     "Dashboard": "Pannello delle statistiche",
     "Exact": "L'esatto",
+	"Regex": "Espressione regolare",			 
     "Wildcard": "Wildcard",
     "Login": "Accedi",
     "Logout": "Esci",
-    "Regex": "Espressione regolare",
+    "Exact whitelist": "Lista bianca l'esatto",
+    "Exact blacklist": "Lista nera l'esatto",
+    "Regex whitelist": "Espressione regolare lista bianca",
+    "Regex blacklist": "Espressione regolare lista nera", 
     "Settings": "Impostazioni",
     "Networking": "Rete",
-    "Versions": "Versioni",
+    "Versions": "Versioni",		
     "Preferences": "Preferenze"
 }
