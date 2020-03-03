@@ -1,9 +1,9 @@
 {
-    "Domains On Blocklist": "Dominî nella lista dei bloccati",
+    "Domains On Blocklist": "Domini nella lista dei bloccati",
     "Query Types": "Tipi di interrogazioni",
     "Forward Destinations": "Destinazioni inviate",
-    "Top Permitted Domains": "Classifica dei dominî consentiti più richiesti",
-    "Top Blocked Domains": "Classifica dei dominî bloccati più richiesti",
+    "Top Permitted Domains": "Classifica dei domini consentiti più richiesti",
+    "Top Blocked Domains": "Classifica dei domini bloccati più richiesti",
     "Top Clients": "Classifica dei client",
     "Total Queries ({{count}} clients)": "Totale delle interrogazioni (tramite 1 client)",
     "Total Queries ({{count}} clients)_plural": "Totale delle interrogazioni (tramite {{count}} client)",
